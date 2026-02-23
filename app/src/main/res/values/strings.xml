@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccessibilityFolder</string>
+    <string name="accessibility_service_description">This service helps monitor the screen to select folders</string>
+</resources>
